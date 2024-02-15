@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del módulo 2
+Este projecto es mi primera prueba
